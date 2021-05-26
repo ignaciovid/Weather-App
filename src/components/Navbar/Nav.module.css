@@ -1,0 +1,23 @@
+.containerNav{
+  display: inline-flex;
+  justify-content: space-between;
+  width: 100%;
+  padding: 10px;
+  background-color: #2b2f37;
+}
+
+.navlink{
+  cursor: pointer;
+  color: #DDDD;
+  font-size: 25px;
+  margin-left: 15px;
+
+}
+
+.navlink:hover{
+  cursor: pointer;
+  text-decoration: none;
+  color: #DDDD;
+  font-size: 25px;
+  margin-left: 15px;
+}

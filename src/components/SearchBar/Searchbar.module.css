@@ -1,0 +1,21 @@
+
+.inputContainer{
+  position: relative;
+  padding-right: 25px;
+}
+
+.formContainer #inputCiudad {
+  border: 0;
+  border-radius: 5px;
+  background-color: rgba(67, 67, 67, 0.891);
+  position: relative;
+  right: 7px;
+  top: 3px;
+  height: 34px;
+}
+
+.formContainer #inputCiudad:focus {
+  outline:none;
+  background-color: #ffff;
+  transition: 1.5s;
+}
