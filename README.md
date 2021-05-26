@@ -1,13 +1,6 @@
-## Comandos para iniciar el proyecto
+## Deploy
 
-Para correr el proyecto deberá hacer fork y clonarlo.
-
-Una vez realizado estos pasos, en la consola ejecutar:
-
-### `npm install`
-
-### `npm start`
-
+<p>Deployada en su <a href="https://weather-app-98.herokuapp.com/"> dominio</a></p>
 
 ### Secciones 
  - En el Home podrá buscar cualquier ciudad con la SearchBar, también podrá encontrar información detallada del clima de un país determinado haciendo click sobre su nombre.
